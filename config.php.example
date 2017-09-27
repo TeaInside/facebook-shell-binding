@@ -1,0 +1,4 @@
+<?php
+
+define("EMAIL", "ammarfaizi2@gmail.com");
+define("PASS", "454469123icetea");
